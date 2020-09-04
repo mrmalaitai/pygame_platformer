@@ -11,7 +11,7 @@ The following repository contain files that have a game.py file with Python code
 
 Images included in repo:
 
-![alt text](https://github.com/MrMalaitaiSolutions/pygame_platformer/blob/master/grass.png "Grass block") Grass block<br>
+![alt text](https://github.com/MrMalaitaiSolutions/pygame_platformer/blob/master/images/grass.png "Grass block") Grass block<br>
 ![alt text](https://github.com/MrMalaitaiSolutions/pygame_platformer/blob/master/dirt.png "Dirt block") Dirt block<br>
 ![alt text](https://github.com/MrMalaitaiSolutions/pygame_platformer/blob/master/player.png "Player block") Player <br>
 
